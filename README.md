@@ -23,4 +23,5 @@ conda env update -f environment.yml
 - This is the link for the fake images we choose from the all produced images.  https://drive.google.com/drive/folders/1Rg_UjVoAPVt8mSX_NLXREd9ETduR9W1L?usp=sharing
 - This is the annotation for the 100 fake images. https://drive.google.com/drive/folders/1_Mnn-SUaA6edrmm8pFcqjPFKBI91u8iY?usp=sharing
 
+5. Run the Yolo model.
 
