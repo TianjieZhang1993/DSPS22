@@ -2,6 +2,9 @@
 
 ## Member: Amanda Jo Mullins, Steven Kim, TJ Zhang(tjzhang@u.boisestate.edu), Yang Lu
 
+We mainly use Generative adversarial network(GAN) to augment images in this competition. In the whole competiting process, we try to do some image-preprocess like **Histogram equalization**, some filters including median, Gamma ... However, all the image preprocess methods showed a accruacy decrease in the final result. Also, we try to use the traditional image augmentation methods like crop, noise, flip ..., these still did not improve the final result. Eventually, we made a try in using the Generative adversarial network to produce fake road images. It could make totally different images depending on our training data. It shows that it is a powerful way to augment the pavement images we already have. we got an accuracy of 0.6332599118942731 which steps second in the final step.
+
+
 ## Procedure:
 1. Create the environment with conda env create: 
 ```python 
