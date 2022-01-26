@@ -1,5 +1,4 @@
-## Team name: Mistletoe <div> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNrFsIu_0BIWuO5Bji5Vg6Cfm1_AeuIrH83A&usqp=CAU" width=5%/> </div>
-
+## Team name: Mistletoe <img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNrFsIu_0BIWuO5Bji5Vg6Cfm1_AeuIrH83A&usqp=CAU">
 
 ## Team member: Amanda Jo Mullins, Steven Kim, TJ Zhang
 
