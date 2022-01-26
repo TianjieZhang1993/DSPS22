@@ -14,7 +14,7 @@ You can also update an environment to make sure it meets the current requirement
 ```python 
 conda env update -f environment.yml
 ```
-2. Annotate the second batch of training Data released from DSPS. Put the images and annotation file into the **td4** folder under **cvat** folder.
+2. Annotate the second batch of training Data released from DSPS using [CVAT](https://github.com/openvinotoolkit/cvat). Put the images and annotation file into the **td4** folder under **cvat** folder.
 - This is the my team's annotation file for the second batch of training data. https://drive.google.com/drive/folders/1jkkRo5sqSx3fx6E3wf5B0C3mBXeU2CoM?usp=sharing
 3. Run the GAN.ipynb (Generative adversarial network) code to produce some fake road images. 
 - To reproduce what we have done, download all the necessary libraries (make sure you have done the step.1), and change the value of **dataset = ""** to your desirable location. 
