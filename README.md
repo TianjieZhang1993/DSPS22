@@ -1,6 +1,6 @@
 ## Team name: Mistletoe <img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNrFsIu_0BIWuO5Bji5Vg6Cfm1_AeuIrH83A&usqp=CAU">
 
-## Team member: Amanda Jo Mullins, Steven Kim, TJ Zhang
+## Team member: Amanda Jo Mullins, Yang Lu, Steven Kim, TJ Zhang
 
 ## procedure:
 1. annotate the second batch of training Data released from DSPS. 
