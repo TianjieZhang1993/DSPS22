@@ -1,4 +1,4 @@
-name: cs533
+name: DSPS
 channels: defaults
 dependencies:
 - python=3.8
