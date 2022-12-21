@@ -1,6 +1,6 @@
 ## Team: Mistletoe <img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNrFsIu_0BIWuO5Bji5Vg6Cfm1_AeuIrH83A&usqp=CAU">
 
-## Member: Amanda Jo Mullins, Steven Kim, TJ Zhang(tjzhang@u.boisestate.edu), Yang Lu
+## Member: TJ Zhang(tjzhang@u.boisestate.edu), Amanda Jo Mullins, Steven Kim, Yang Lu
 
 We mainly used Generative adversarial network(GAN) to augment images in this competition. In the whole competing process, we try to perform some image-preprocess such as **Histogram equalization**, and some **filters** including Median, Gamma, Gaussian etc. However, all the image preprocess methods showed an accruacy decrease in the final result. Also, we tried to use the **traditional image augmentation methods** like crop, noise, flip. These methods did not improve the final result. We were successful on utilizing **Generative adversarial network** to produce fake road images. It produced a variety of different images depending on our training data. Thankfully, we got good results which proves that it is a powerful method to augment the preexisting pavement images. Our final accuracy is around 0.633.
 
