@@ -28,3 +28,6 @@ conda env update -f environment.yml
 
 5. Run the dsps_main.ipynb (the Yolo model provided by the [DSPS](https://github.com/UM-Titan/DSPS))
 
+## News
+
+link: https://www.boisestate.edu/computing/2022/05/10/bsu-student-team-places-2nd-in-fhwa-student-data-competition/
