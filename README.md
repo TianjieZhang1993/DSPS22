@@ -9,10 +9,12 @@ Steven Kim,
 
 Yang Lu
 
+## Abstract:
+
 We mainly used Generative adversarial network(GAN) to augment images in this competition. In the whole competing process, we try to perform some image-preprocess such as **Histogram equalization**, and some **filters** including Median, Gamma, Gaussian etc. However, all the image preprocess methods showed an accruacy decrease in the final result. Also, we tried to use the **traditional image augmentation methods** like crop, noise, flip. These methods did not improve the final result. We were successful on utilizing **Generative adversarial network** to produce fake road images. It produced a variety of different images depending on our training data. Thankfully, we got good results which proves that it is a powerful method to augment the preexisting pavement images. Our final accuracy is around 0.633.
 
 
-## Procedure:
+## How to run:
 1. Create the environment with conda env create: 
 ```python 
 conda env create -f environment.yml 
@@ -38,4 +40,5 @@ conda env update -f environment.yml
 ## links
 
 News: https://www.boisestate.edu/computing/2022/05/10/bsu-student-team-places-2nd-in-fhwa-student-data-competition/
+
 Paper: https://arxiv.org/pdf/2206.04874.pdf
